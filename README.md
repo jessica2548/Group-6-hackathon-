@@ -1,16 +1,4 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
+//campus shuttle fare
 #include <stdio.h>
 
 int main()
